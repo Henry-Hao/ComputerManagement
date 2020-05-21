@@ -3,10 +3,10 @@
 --- 
 
 ### 技术选择
-Backend: ```Django 3.0.6```
-Frontend: ```Angular 9.1.10```
-Database: ```Mysql 14.14```
-UI: ```Angular Material 9.2.4```
+Backend: ```Django 3.0.6```  
+Frontend: ```Angular 9.1.10```  
+Database: ```Mysql 14.14```  
+UI: ```Angular Material 9.2.4```  
 
 ---
 
