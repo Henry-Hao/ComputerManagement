@@ -1,4 +1,14 @@
 <mat-toolbar>
-    <span> Computer Management </span>
+    Computer Management
 </mat-toolbar>
-12312312312
+
+<mat-sidenav-container>
+    <mat-sidenav mode="side" opened>
+        <app-side-nav></app-side-nav>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+
+</mat-sidenav-container>
